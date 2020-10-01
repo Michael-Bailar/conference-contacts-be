@@ -1,3 +1,6 @@
+# About
+This is the backend I worked on for the SWAAP app by Lambda school. For this project, my team of 3 web developers made a few positive changes to the app. When we took up the project, there was no way to add some important contact information (connection notes and event notes.) This seemed like a simple task at first but the front end and back end apps were not using Apollo correctly in many places and a lot of the state management was a mess. We improved it some and began the transition to using ApolloGraphQL appropriately. It was really interesting unraveling the maze of data being passed as props and sometimes called from a cache. Most of my work was on the back end, but you can find the front end in my public repos too.
+
 # API Documentation
 
 #### Backend deployed at [Heroku](https://lambda-labs-swaap.herokuapp.com/) <br>
